@@ -1,0 +1,14 @@
+{
+  "name": "norso",
+  "owner": {
+    "name": "Norso Creative"
+  },
+  "plugins": [
+    {
+      "name": "marketing-plan",
+      "source": "./",
+      "description": "Build a complete, hand-over-ready marketing plan and brand playbook with nine Claude skills.",
+      "version": "1.0.0"
+    }
+  ]
+}
