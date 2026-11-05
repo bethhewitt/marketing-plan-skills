@@ -21,7 +21,7 @@ Every step drafts from evidence first, asks you one question at a time, and save
 
 ```
 /plugin marketplace add bethhewitt/marketing-plan-skills
-/plugin install marketing-plan@norso
+/plugin install marketing-plan@bethhewitt
 ```
 
 Then ask Claude for a marketing plan, or run a single step directly, for example "run a competitor analysis" or "build our ICP".
@@ -29,7 +29,7 @@ Then ask Claude for a marketing plan, or run a single step directly, for example
 To update later:
 
 ```
-/plugin marketplace update norso
+/plugin marketplace update bethhewitt
 ```
 
 ## Install without the plugin system
@@ -51,4 +51,4 @@ skills/
 
 ## Credits
 
-Created by Norso Creative. Released under the [MIT licence](LICENSE).
+Created by Beth Hewitt. Released under the [MIT licence](LICENSE).
