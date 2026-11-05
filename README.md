@@ -51,4 +51,4 @@ skills/
 
 ## Credits
 
-Created by Norso Creative.
+Created by Norso Creative. Released under the [MIT licence](LICENSE).

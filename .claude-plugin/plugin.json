@@ -5,5 +5,15 @@
   "author": {
     "name": "Norso Creative"
   },
-  "keywords": ["marketing", "marketing-plan", "brand", "positioning", "messaging", "okrs", "icp", "playbook"]
+  "keywords": [
+    "marketing",
+    "marketing-plan",
+    "brand",
+    "positioning",
+    "messaging",
+    "okrs",
+    "icp",
+    "playbook"
+  ],
+  "license": "MIT"
 }
